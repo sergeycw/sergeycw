@@ -2,7 +2,7 @@
 
 [sergeycw.com](https://sergeycw.com) · [LinkedIn](https://www.linkedin.com/in/sergey-lukashev/) · [Telegram](https://t.me/sergeycw)
 
-Full-stack engineer with 8+ years of experience, working in the fintech/regtech domain on compliance and KYC platforms.
+Full-stack engineer, working in the fintech/regtech domain on compliance and KYC platforms.
 
 - 🛠 Daily stack: TypeScript, React, NestJS
 - 🗺 Side projects:
